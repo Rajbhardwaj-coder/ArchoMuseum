@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import video from "../assets/Archo.png" 
 import logo1 from "../assets/logo1.png"
+
 import { AnimatePresence, motion, useInView  } from 'framer-motion'
 import React, { useRef } from 'react'
 
