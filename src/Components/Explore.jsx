@@ -9,7 +9,7 @@ import DecayCard from './DecayCard'; // 🧠 Add this line
 import arch1 from '../assets/arch1.png';
 import arch2 from '../assets/arch2.jpg';
 import fossil from '../assets/fossil.jpeg';
-import fossil1 from '../assets/fossil1.jpeg';
+import fossil1 from '../assets/Fossil1.jpeg';
 import excavation from '../assets/excavation.jpeg';
 import skul from '../assets/skul.jpeg';
 
